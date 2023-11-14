@@ -1,0 +1,35 @@
+.body-section {
+  margin: 6rem 4rem;
+}
+
+.body-section h2 {
+  font-size: 1.5rem;
+}
+
+.first-body {
+  display: flex;
+  align-items: left;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+}
+
+.body-text {
+  width: 35%;
+  text-align: start;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+}
+
+body-text h2 {
+  padding-bottom: 1 rem;
+}
+
+.image {
+  position: center;
+  width: 50%;
+}
+
+.body-text p {
+  font-size: 2rem;
+  text-align: justify-content;
+}

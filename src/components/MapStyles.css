@@ -1,0 +1,29 @@
+.map {
+  display: flex;
+  flex-direction: column;
+}
+
+.map-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.map iframe {
+  flex: 1 1 70%;
+  margin-right: 20px;
+}
+
+.info-container {
+  flex: 1 1 30%;
+  display: flex;
+}
+
+.map-info {
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.how-to-use {
+  flex: 1;
+  margin-top: 20px;
+}
