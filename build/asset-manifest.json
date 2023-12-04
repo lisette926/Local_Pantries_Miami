@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Local_Pantries_Miami/static/css/main.efd9da0e.css",
+    "main.js": "/Local_Pantries_Miami/static/js/main.6c5a670a.js",
+    "static/media/pic3.png": "/Local_Pantries_Miami/static/media/pic3.38d256931e82fb2efbef.png",
+    "static/media/pic1.png": "/Local_Pantries_Miami/static/media/pic1.3217b7740cdea0eb4246.png",
+    "static/media/pic2.png": "/Local_Pantries_Miami/static/media/pic2.00c96df7989c29e0bd65.png",
+    "static/media/pic5.png": "/Local_Pantries_Miami/static/media/pic5.13cd87893fb59a8e8b6d.png",
+    "static/media/pic4.png": "/Local_Pantries_Miami/static/media/pic4.5e8e7658bd2c462f8a09.png",
+    "index.html": "/Local_Pantries_Miami/index.html",
+    "main.efd9da0e.css.map": "/Local_Pantries_Miami/static/css/main.efd9da0e.css.map",
+    "main.6c5a670a.js.map": "/Local_Pantries_Miami/static/js/main.6c5a670a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd9da0e.css",
+    "static/js/main.6c5a670a.js"
+  ]
+}
